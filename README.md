@@ -17,32 +17,40 @@
 
 ## 🚀 Технологии и инструменты
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF0078?style=for-the-badge&logo=framer)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=Zustand&logoColor=white&style=flat)
+![Redux Toolkit](https://img.shields.io/badge/-Redux--Toolkit-764ABC?logo=redux&logoColor=white&style=flat)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+
+### 🎨 UI / Дизайн
+
+![Figma](https://img.shields.io/badge/-Figma-A259FF?logo=figma&logoColor=white&style=flat)
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-black?logo=framer&logoColor=white&style=flat)
+
+### ⚙️ Инструменты
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=flat)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
-## 📈 Моя GitHub статистика
+## 🧭 Roadmap 2025
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonDev&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+- [x] Перейти с CRA на Vite
+- [x] Начать использовать App Router в Next.js
+- [ ] Использовать на проде Module Federation
+- [ ] Освоить Node.js
+- [ ] Освоить Angular.js
+- [ ] Попробовать tRPC
 
 ---
 
@@ -73,3 +81,5 @@
 <p align="center">
   ✨ Спасибо, что заглянул в мой профиль! Оцени ⭐ проекты, если понравилось 😄
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1100&pause=2200&color=00F722&multiline=true&width=435&height=185&lines=npx+create-frontend-life;%3E+installing...;%3E+React+%E2%9C%85;%3E+TypeScript+%E2%9C%85;%3E+Redux+Toolkit+%E2%9C%85;%3E+Passion+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
